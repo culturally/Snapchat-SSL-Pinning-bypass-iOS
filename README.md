@@ -26,6 +26,7 @@ Get your private api endpoints now!
 
 | Icon | Bundle ID | Version | File Type | Download |
 | ------------------ |:------:|:------:|:------:|:------:|
+| <img src="https://cdn-icons-png.flaticon.com/512/3670/3670166.png" width="20">| [com.toyopagroup.picaboo](https://github.com/culturally/Snapchat-SSL-Pinning-bypass-ios/releases/download/13.25/Snapchat13.25.ipa) | 13.25 | IPA | [Click here](https://github.com/culturally/Snapchat-SSL-Pinning-bypass-ios/releases/download/13.25/Snapchat13.25.ipa) |
 | <img src="https://cdn-icons-png.flaticon.com/512/3670/3670166.png" width="20">| [com.toyopagroup.picaboo](https://github.com/culturally/Snapchat-SSL-Pinning-bypass-ios/releases/download/11.91/Snapchat11.91.ipa) | 11.91 | IPA | [Click here](https://github.com/culturally/Snapchat-SSL-Pinning-bypass-ios/releases/download/11.91/Snapchat11.91.ipa) |
 
 
@@ -51,7 +52,7 @@ When a client (such as a web browser or a mobile app) connects to a server over 
 
 
 ## Disclaimer
-This project is for educational purposes only. It demonstrates bypassing SSL pinning in binaries, such as those used by Instagram/Meta, to help developers and researchers understand security vulnerabilities.
+This project is for educational purposes only. It demonstrates bypassing SSL pinning in binaries, such as those used by Snapchat, to help developers and researchers understand security vulnerabilities.
 
 There is no intent to harm, exploit, or encourage illegal activities. If Instagram/Meta or any other party has concerns, please contact me at 0day@yin.sh, and I will address the issue or take down the project as requested.
 
