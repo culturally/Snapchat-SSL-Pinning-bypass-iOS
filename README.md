@@ -12,7 +12,7 @@ Available to bypass latest iOS version.
 
 ## Info
 
-- Current version which was bypassed: 13.57 (13.57 is private and not for release)
+- Current version which was bypassed: 13.65 (13.65 is private and not for release)
 - You can now intercept all requests
 - iOS Only
 - Tested on iOS 15.4.1
