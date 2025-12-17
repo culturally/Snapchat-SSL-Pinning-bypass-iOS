@@ -3,7 +3,7 @@
 Snapchat iOS with SSL pinning bypassed / Snapchat with certificate pinning bypassed.
 Get your private api endpoints now!
 
-Available to bypass latest iOS version.
+Available to bypass latest iOS version and intercept.
 
 ## Support Me
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968260.png" width="20">**Bitcoin:** 1DebianQ5wjKFQMa82rCtaZV79gF74YeiQ   
